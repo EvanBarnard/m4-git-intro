@@ -1,10 +1,10 @@
 # Module 4: Introduction to Git and GitHub
 #Ordered List for Breakfast
-1.Toast
-2.Hashbrowns
-3.Ham
-4.Sausage
-5.Oranges
+- 1.Toast
+- 2.Hashbrowns
+- 3.Ham
+- 4.Sausage
+- 5.Oranges
 
 
 ## Overview
